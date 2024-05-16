@@ -3,9 +3,9 @@
 **Question 1**<br>
 Here is the 1 month timeline:<br>
 --> Pre-requisits<br>
-    First of all we must purchase google colab subscription so that training time reduces and we can train our model easily and quickly over a large dataset.<br>
-    We may use TPU or GPU according to the batch size of database we are   training.<br>
-    Have a sample dataset ready
+* First of all we must purchase google colab subscription so that training time reduces and we can train our model easily and quickly over a large dataset.<br>
+* We may use TPU or GPU according to the batch size of database we are   training.<br>
+* Have a sample dataset ready
 
 #    Week:1- 
         DAY 1 to DAY 4:
